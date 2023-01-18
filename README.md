@@ -1,3 +1,3 @@
 # GifExpertApp
 
-Exte es mi pryecto de gif's desarrollador con react.
+Este es mi pryecto de gif's desarrollado con react.
